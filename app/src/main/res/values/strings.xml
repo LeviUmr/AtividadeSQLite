@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">AtividadeSql</string>
+    <string name="app_name">Cadastro de Filmes</string>
+    <string name="menu_title">Filmes</string>
+    <string name="cadastro_filmes">Cadastro Filmes</string>
+    <string name="btn_adicionarFilme">Adicionar filme</string>
+    <string name="adicionar">adicionar</string>
+    <string name="hint_avaliacao">Avaliação</string>
+    <string name="hint_categoria">Categoria</string>
+    <string name="hint_nome_filme">nome do filme</string>
 </resources>
